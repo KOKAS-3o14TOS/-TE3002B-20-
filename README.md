@@ -59,7 +59,7 @@ Follow the instructions for your OS.
 
 Install [Balena Etcher](https://etcher.balena.io/) to format an SD card.
 
-Get the [Puzzlebot](https://manchesterrobotics-my.sharepoint.com/:u:/g/personal/mario_mtz_manchester-robotics_com/EVMUSVxzaepInxdKvzXnhpQBlhEpad4ZZDCQylmIlI3PlQ?e=5eqEzd) image and flash it.
+Get the Puzzlebot image and flash it. [Option 1](https://manchesterrobotics-my.sharepoint.com/:u:/g/personal/mario_mtz_manchester-robotics_com/EVMUSVxzaepInxdKvzXnhpQBlhEpad4ZZDCQylmIlI3PlQ?e=5eqEzd) [Option 2](https://www.dropbox.com/scl/fi/2ccqhr9g0u5rj15ysr93r/jetson_2gb_ubuntu20.zip?rlkey=5iq4ebmrf529t5t2jztprsvhp&dl=0)
 
 #### Connect to the Puzzlebot via SSH
 * Connect to the puzzlebot-jetson network
