@@ -145,6 +145,7 @@ Evaluation
   ### Virtual Machine: 
    * [VM Ware](https://customerconnect.vmware.com/en/downloads/details?downloadGroup=WKST-PLAYER-1750&productId=1377&rPId=111473)
    * [ROS Preinstalled VM](https://manchesterrobotics-my.sharepoint.com/:u:/g/personal/mario_mtz_manchester-robotics_com/EWcRInLzqDZNpxqWlH3X0sQBGXgbTSj9Qp1VX7O_sGy4zQ?e=sIq2xd)
+   * [Puzzlebot Gazebo Simulator](https://manchesterrobotics-my.sharepoint.com/:f:/g/personal/rolando_bautista_manchester-robotics_com/EoGrQpj-hTBIvYdqiUjDoOUBhKw4LcTE7y1ISL9NHZrBHw?e=B4eP3h)
 
   ### Resources
    * [Introduction to Autonomous Mobile Robots](https://ieeexplore.ieee.org/book/6267528)
